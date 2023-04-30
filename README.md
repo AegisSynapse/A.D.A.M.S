@@ -18,11 +18,12 @@ Is a python applciation that provides a steamlined & intuitive way to import, an
 
   ![Screenshot 2023-04-30 003945](https://user-images.githubusercontent.com/132188683/235341659-f6c465ec-035a-4c98-9b99-bfd7bea7a433.png)
   
+  
 # CLI Main Menu
 
 ![Screenshot 2023-04-30 004108](https://user-images.githubusercontent.com/132188683/235341689-88fddc8f-53a5-421a-ad3b-c7f2b637990b.png)
 
-#DataSphere Homepage
+# DataSphere Homepage
 
 
 ![Screenshot 2023-04-30 004228](https://user-images.githubusercontent.com/132188683/235341752-3f7eebda-51e8-4596-b320-c223c9073066.png)

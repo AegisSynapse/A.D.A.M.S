@@ -1,5 +1,5 @@
 # A.D.A.M.S
-Attribute Data Analysis Management System - Alpha Version 
+Attribute Data Analysis Management System - Alpha Version (LinkedIn)
 
 Is a python applciation that provides a steamlined & intuitive way to import, analyze, visualize large datasets. With A.D.A.M.S, users can import CSV files, analyze, & generate interactive visualizations with just a few clicks.
 
